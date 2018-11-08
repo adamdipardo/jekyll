@@ -1,0 +1,15 @@
+---
+label: Video
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: text
+  name: embed_link
+  label: Embed Link
+  config:
+    required: true
