@@ -1,0 +1,10 @@
+---
+label: Videos
+hide_body: false
+is_partial: true
+fields:
+- type: blocks
+  template_types:
+  - video
+  label: Videos
+  name: videos
