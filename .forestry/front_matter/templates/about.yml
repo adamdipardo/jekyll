@@ -1,0 +1,17 @@
+---
+label: About
+hide_body: false
+is_partial: false
+fields:
+- type: field_group_list
+  name: boxes
+  label: Boxes
+  fields:
+  - type: text
+    name: heading
+    label: Heading
+  - type: textarea
+    name: body
+    label: Body
+  config:
+    labelField: heading
