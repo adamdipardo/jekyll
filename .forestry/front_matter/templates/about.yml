@@ -15,3 +15,5 @@ fields:
     label: Body
   config:
     labelField: heading
+pages:
+- about.md
