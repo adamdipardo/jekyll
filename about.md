@@ -3,6 +3,8 @@ layout: page
 title: About
 permalink: "/about/"
 boxes:
+- heading: Title 3
+  body: Nulla ultricies, ante nec accumsan sagittis.
 - heading: Title 2
   body: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 - heading: Title 1
